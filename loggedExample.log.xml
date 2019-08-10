@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-06T16:43:03.330353Z</date>
+  <millis>1557160983330</millis>
+  <nanos>353000</nanos>
+  <sequence>0</sequence>
+  <logger>logging.LoggedExample</logger>
+  <level>INFO</level>
+  <class>logging.LoggedExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Program is started with arguments []</message>
+</record>
+<record>
+  <date>2019-05-06T16:43:03.435656Z</date>
+  <millis>1557160983435</millis>
+  <nanos>656000</nanos>
+  <sequence>1</sequence>
+  <logger>logging.LoggedExample</logger>
+  <level>SEVERE</level>
+  <class>logging.LoggedExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Fatal error: / by zero</message>
+</record>
+</log>
